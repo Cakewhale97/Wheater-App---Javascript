@@ -68,7 +68,10 @@ Here's a sneak peek of the WeatherApp in action:
 
 Here's a demo of the WeatherApp in action:
 
-[Weather App GIF](https://github.com/Cakewhale97/Wheater-App---Javascript/assets/121439769/fbd03248-5d17-4aaf-b19f-f93df02ea600)
+![Weather App GIF](https://github.com/Cakewhale97/Wheater-App---Javascript/assets/121439769/8bfcdb4b-8098-48db-822b-147882fb093b)
+
+
+
 ## **Contributing**
 
 Contributions are welcome! To contribute, follow these steps:
