@@ -58,11 +58,7 @@ To run this project locally, follow these steps:
 2. **View Weather Data**:
    - The app will display the current temperature, humidity, wind speed, and weather conditions for the specified city.
 
-## **Screenshots**
 
-Here's a sneak peek of the WeatherApp in action:
-
-![WeatherApp Screenshot](assets/screenshot.png)
 
 ## **Demo**
 
